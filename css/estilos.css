@@ -1,0 +1,48 @@
+body {
+    background-color: #035757;
+    padding: 20px;
+    font-family: Arial;
+}
+
+#menu {
+    background-color: #1a1c1c;
+}
+
+#menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#menu ul li {
+    display: inline-block;
+}
+
+#menu ul li a{
+    color: wheat;
+    display: block;
+    padding: 10px 210px;
+    text-decoration: none;
+}
+
+#menu ul li a:hover {
+    background-color: #0c9191;
+}
+
+#texto {
+    color: wheat;
+    text-align: center;
+}
+
+#parrafo {
+    color: wheat;
+    text-align: justify;
+}
+
+#imagen {
+    display: block;
+    margin: auto;
+    width: 680px;
+    height: 420px;
+    
+}
