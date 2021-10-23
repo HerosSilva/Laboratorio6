@@ -1,3 +1,4 @@
+/*Heros Daniel Silva Cavazos 1945831*/
 body {
     background-color: #035757;
     padding: 20px;
@@ -6,6 +7,10 @@ body {
 
 #menu {
     background-color: #1a1c1c;
+}
+
+#actual {
+    background-color: #038a27;
 }
 
 #menu ul {
@@ -19,9 +24,9 @@ body {
 }
 
 #menu ul li a{
-    color: wheat;
+    color: white;
     display: block;
-    padding: 10px 210px;
+    padding: 10px 152px;
     text-decoration: none;
 }
 
@@ -35,7 +40,7 @@ body {
 }
 
 #parrafo {
-    color: wheat;
+    color: white;
     text-align: justify;
 }
 
@@ -45,4 +50,22 @@ body {
     width: 680px;
     height: 420px;
     
+}
+
+#imagenjugadores{
+    display: inline;
+    margin: auto;
+    width: 420px;
+    height: 200px;
+    
+}
+
+#center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 33%;
+}
+#ancho {
+    width: 420px;
 }
